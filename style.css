@@ -264,14 +264,16 @@ img{
   .abt{
     width: 100%;
     font-size:small;
-    margin: 0;
+    margin: 5px;
     padding: 0;
+    margin-right: 5px;
   }
   .about h2{
     font-size: large; 
     margin-top: 0;
     margin-bottom: 30px;
-    margin-left: 0;
+    margin-left: 0px;
+    
   }
   .lg{
     
