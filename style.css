@@ -52,8 +52,9 @@ body{
   .left{
     height: 100%;
     padding-left: 50px;
+    display: block;
     position: absolute;
-    z-index: -1;
+    z-index: 1;
     top: 0;
     overflow: hidden;
     left: 0;
