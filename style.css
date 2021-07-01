@@ -52,7 +52,7 @@ body{
   .left{
     height: 100%;
     padding-left: 50px;
-    
+    position: absolute;
     z-index: -1;
     top: 0;
     overflow: hidden;
@@ -62,7 +62,7 @@ body{
   }
   .right{
     height: 100%;
-    position: fixed;
+    position: absolute;
     z-index: -2;
     top: 0;
     overflow: hidden;
